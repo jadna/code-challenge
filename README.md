@@ -1,3 +1,16 @@
+## Execution
+
+1 - Clone the repo: git clone https://github.com/jadna/code-challenge.git
+
+2 - cd code-challenge
+
+3 - Run docker-compose inside folder: docker-compose up -d
+
+4 - Install python requirements: pip install -r app/requirements.txt
+
+5 - Execute: python main.py
+
+
 # code-challenge
 Indicium code challenge for Software Developer focusing on data projects
 
@@ -89,11 +102,5 @@ You are free to use opensource libs and frameworks, but also keep in mind that *
 
 Thank you for participating!
 
-## Execution
 
-1 - Clone the repo: git clone https://github.com/jadna/code-challenge.git
-2 - cd code-challenge
-3 - Run docker-compose inside folder: docker-compose up -d
-4 - Install python requirements: pip install -r app/requirements.txt
-5 - Execute: python main.py
 
