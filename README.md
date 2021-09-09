@@ -6,7 +6,7 @@
 
 3 - Run docker-compose inside folder: docker-compose up -d
 
-4 - Install python requirements: pip install -r app/requirements.txt
+4 - Install python requirements: pip install -r requirements.txt
 
 5 - Execute: python main.py
 
