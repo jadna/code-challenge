@@ -1,0 +1,101 @@
+order_id,order_date,shipped_date,freight,ship_name,ship_address,ship_city,ship_region,ship_postal_code,ship_country,unit_price,quantity,discount
+10248,1996-07-04,1996-07-16,32.38,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France,14.0,12,0
+10248,1996-07-04,1996-07-16,32.38,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France,9.8,10,0
+10248,1996-07-04,1996-07-16,32.38,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France,34.8,5,0
+10249,1996-07-05,1996-07-10,11.61,Toms SpezialitÃ¤ten,Luisenstr. 48,MÃ¼nster,,44087,Germany,18.6,9,0
+10249,1996-07-05,1996-07-10,11.61,Toms SpezialitÃ¤ten,Luisenstr. 48,MÃ¼nster,,44087,Germany,42.4,40,0
+10250,1996-07-08,1996-07-12,65.83,Hanari Carnes,"Rua do PaÃ§o, 67",Rio de Janeiro,RJ,05454-876,Brazil,7.7,10,0
+10250,1996-07-08,1996-07-12,65.83,Hanari Carnes,"Rua do PaÃ§o, 67",Rio de Janeiro,RJ,05454-876,Brazil,42.4,35,0
+10250,1996-07-08,1996-07-12,65.83,Hanari Carnes,"Rua do PaÃ§o, 67",Rio de Janeiro,RJ,05454-876,Brazil,16.8,15,0
+10251,1996-07-08,1996-07-15,41.34,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,France,16.8,6,0
+10251,1996-07-08,1996-07-15,41.34,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,France,15.6,15,0
+10251,1996-07-08,1996-07-15,41.34,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,France,16.8,20,0
+10252,1996-07-09,1996-07-11,51.3,SuprÃªmes dÃ©lices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium,64.8,40,0
+10252,1996-07-09,1996-07-11,51.3,SuprÃªmes dÃ©lices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium,2.0,25,0
+10252,1996-07-09,1996-07-11,51.3,SuprÃªmes dÃ©lices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium,27.2,40,0
+10253,1996-07-10,1996-07-16,58.17,Hanari Carnes,"Rua do PaÃ§o, 67",Rio de Janeiro,RJ,05454-876,Brazil,10.0,20,0
+10253,1996-07-10,1996-07-16,58.17,Hanari Carnes,"Rua do PaÃ§o, 67",Rio de Janeiro,RJ,05454-876,Brazil,14.4,42,0
+10253,1996-07-10,1996-07-16,58.17,Hanari Carnes,"Rua do PaÃ§o, 67",Rio de Janeiro,RJ,05454-876,Brazil,16.0,40,0
+10254,1996-07-11,1996-07-23,22.98,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland,3.6,15,0
+10254,1996-07-11,1996-07-23,22.98,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland,19.2,21,0
+10254,1996-07-11,1996-07-23,22.98,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland,8.0,21,0
+10255,1996-07-12,1996-07-15,148.33,Richter Supermarkt,Starenweg 5,GenÃ¨ve,,1204,Switzerland,15.2,20,0
+10255,1996-07-12,1996-07-15,148.33,Richter Supermarkt,Starenweg 5,GenÃ¨ve,,1204,Switzerland,13.9,35,0
+10255,1996-07-12,1996-07-15,148.33,Richter Supermarkt,Starenweg 5,GenÃ¨ve,,1204,Switzerland,15.2,25,0
+10255,1996-07-12,1996-07-15,148.33,Richter Supermarkt,Starenweg 5,GenÃ¨ve,,1204,Switzerland,44.0,30,0
+10256,1996-07-15,1996-07-17,13.97,Wellington Importadora,"Rua do Mercado, 12",Resende,SP,08737-363,Brazil,26.2,15,0
+10256,1996-07-15,1996-07-17,13.97,Wellington Importadora,"Rua do Mercado, 12",Resende,SP,08737-363,Brazil,10.4,12,0
+10257,1996-07-16,1996-07-22,81.91,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San CristÃ³bal,TÃ¡chira,5022,Venezuela,35.1,25,0
+10257,1996-07-16,1996-07-22,81.91,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San CristÃ³bal,TÃ¡chira,5022,Venezuela,14.4,6,0
+10257,1996-07-16,1996-07-22,81.91,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San CristÃ³bal,TÃ¡chira,5022,Venezuela,10.4,15,0
+10258,1996-07-17,1996-07-23,140.51,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria,15.2,50,0
+10258,1996-07-17,1996-07-23,140.51,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria,17.0,65,0
+10258,1996-07-17,1996-07-23,140.51,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria,25.6,6,0
+10259,1996-07-18,1996-07-25,3.25,Centro comercial Moctezuma,Sierras de Granada 9993,MÃ©xico D.F.,,05022,Mexico,8.0,10,0
+10259,1996-07-18,1996-07-25,3.25,Centro comercial Moctezuma,Sierras de Granada 9993,MÃ©xico D.F.,,05022,Mexico,20.8,1,0
+10260,1996-07-19,1996-07-29,55.09,Ottilies KÃ¤seladen,Mehrheimerstr. 369,KÃ¶ln,,50739,Germany,7.7,16,0
+10260,1996-07-19,1996-07-29,55.09,Ottilies KÃ¤seladen,Mehrheimerstr. 369,KÃ¶ln,,50739,Germany,15.6,50,0
+10260,1996-07-19,1996-07-29,55.09,Ottilies KÃ¤seladen,Mehrheimerstr. 369,KÃ¶ln,,50739,Germany,39.4,15,0
+10260,1996-07-19,1996-07-29,55.09,Ottilies KÃ¤seladen,Mehrheimerstr. 369,KÃ¶ln,,50739,Germany,12.0,21,0
+10261,1996-07-19,1996-07-30,3.05,Que DelÃ­cia,"Rua da Panificadora, 12",Rio de Janeiro,RJ,02389-673,Brazil,8.0,20,0
+10261,1996-07-19,1996-07-30,3.05,Que DelÃ­cia,"Rua da Panificadora, 12",Rio de Janeiro,RJ,02389-673,Brazil,14.4,20,0
+10262,1996-07-22,1996-07-25,48.29,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA,17.0,12,0
+10262,1996-07-22,1996-07-25,48.29,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA,24.0,15,0
+10262,1996-07-22,1996-07-25,48.29,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA,30.4,2,0
+10263,1996-07-23,1996-07-31,146.06,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria,13.9,60,0
+10263,1996-07-23,1996-07-31,146.06,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria,3.6,28,0
+10263,1996-07-23,1996-07-31,146.06,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria,20.7,60,0
+10263,1996-07-23,1996-07-31,146.06,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria,8.0,36,0
+10264,1996-07-24,1996-08-23,3.67,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,,S-844 67,Sweden,15.2,35,0
+10264,1996-07-24,1996-08-23,3.67,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,,S-844 67,Sweden,7.7,25,0
+10265,1996-07-25,1996-08-12,55.28,Blondel pÃ¨re et fils,"24, place KlÃ©ber",Strasbourg,,67000,France,31.2,30,0
+10265,1996-07-25,1996-08-12,55.28,Blondel pÃ¨re et fils,"24, place KlÃ©ber",Strasbourg,,67000,France,12.0,20,0
+10266,1996-07-26,1996-07-31,25.73,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland,30.4,12,0
+10267,1996-07-29,1996-08-06,208.58,Frankenversand,Berliner Platz 43,MÃ¼nchen,,80805,Germany,14.7,50,0
+10267,1996-07-29,1996-08-06,208.58,Frankenversand,Berliner Platz 43,MÃ¼nchen,,80805,Germany,44.0,70,0
+10267,1996-07-29,1996-08-06,208.58,Frankenversand,Berliner Platz 43,MÃ¼nchen,,80805,Germany,14.4,15,0
+10268,1996-07-30,1996-08-02,66.29,GROSELLA-Restaurante,5Âª Ave. Los Palos Grandes,Caracas,DF,1081,Venezuela,99.0,10,0
+10268,1996-07-30,1996-08-02,66.29,GROSELLA-Restaurante,5Âª Ave. Los Palos Grandes,Caracas,DF,1081,Venezuela,27.8,4,0
+10269,1996-07-31,1996-08-09,4.56,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA,2.0,60,0
+10269,1996-07-31,1996-08-09,4.56,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA,27.8,20,0
+10270,1996-08-01,1996-08-02,136.54,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland,15.2,30,0
+10270,1996-08-01,1996-08-02,136.54,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland,36.8,25,0
+10271,1996-08-01,1996-08-30,4.54,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA,2.0,24,0
+10272,1996-08-02,1996-08-06,98.03,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA,64.8,6,0
+10272,1996-08-02,1996-08-06,98.03,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA,10.0,40,0
+10272,1996-08-02,1996-08-06,98.03,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA,27.8,24,0
+10273,1996-08-05,1996-08-12,76.07,QUICK-Stop,TaucherstraÃŸe 10,Cunewalde,,01307,Germany,24.8,24,0
+10273,1996-08-05,1996-08-12,76.07,QUICK-Stop,TaucherstraÃŸe 10,Cunewalde,,01307,Germany,10.0,15,0
+10273,1996-08-05,1996-08-12,76.07,QUICK-Stop,TaucherstraÃŸe 10,Cunewalde,,01307,Germany,2.0,20,0
+10273,1996-08-05,1996-08-12,76.07,QUICK-Stop,TaucherstraÃŸe 10,Cunewalde,,01307,Germany,14.7,60,0
+10273,1996-08-05,1996-08-12,76.07,QUICK-Stop,TaucherstraÃŸe 10,Cunewalde,,01307,Germany,14.4,33,0
+10274,1996-08-06,1996-08-16,6.01,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France,17.2,20,0
+10274,1996-08-06,1996-08-16,6.01,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,51100,France,27.8,7,0
+10275,1996-08-07,1996-08-09,26.93,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy,3.6,12,0
+10275,1996-08-07,1996-08-09,26.93,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy,44.0,6,0
+10276,1996-08-08,1996-08-14,13.84,Tortuga Restaurante,Avda. Azteca 123,MÃ©xico D.F.,,05033,Mexico,24.8,15,0
+10276,1996-08-08,1996-08-14,13.84,Tortuga Restaurante,Avda. Azteca 123,MÃ©xico D.F.,,05033,Mexico,4.8,10,0
+10277,1996-08-09,1996-08-13,125.77,Morgenstern Gesundkost,Heerstr. 22,Leipzig,,04179,Germany,36.4,20,0
+10277,1996-08-09,1996-08-13,125.77,Morgenstern Gesundkost,Heerstr. 22,Leipzig,,04179,Germany,39.4,12,0
+10278,1996-08-12,1996-08-16,92.69,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,,S-958 22,Sweden,15.5,16,0
+10278,1996-08-12,1996-08-16,92.69,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,,S-958 22,Sweden,44.0,15,0
+10278,1996-08-12,1996-08-16,92.69,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,,S-958 22,Sweden,35.1,8,0
+10278,1996-08-12,1996-08-16,92.69,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,,S-958 22,Sweden,12.0,25,0
+10279,1996-08-13,1996-08-16,25.83,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany,31.2,15,0
+10280,1996-08-14,1996-09-12,8.98,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,,S-958 22,Sweden,3.6,12,0
+10280,1996-08-14,1996-09-12,8.98,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,,S-958 22,Sweden,19.2,20,0
+10280,1996-08-14,1996-09-12,8.98,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,,S-958 22,Sweden,6.2,30,0
+10281,1996-08-14,1996-08-21,2.94,Romero y tomillo,"Gran VÃ­a, 1",Madrid,,28001,Spain,7.3,1,0
+10281,1996-08-14,1996-08-21,2.94,Romero y tomillo,"Gran VÃ­a, 1",Madrid,,28001,Spain,3.6,6,0
+10281,1996-08-14,1996-08-21,2.94,Romero y tomillo,"Gran VÃ­a, 1",Madrid,,28001,Spain,14.4,4,0
+10282,1996-08-15,1996-08-21,12.69,Romero y tomillo,"Gran VÃ­a, 1",Madrid,,28001,Spain,20.7,6,0
+10282,1996-08-15,1996-08-21,12.69,Romero y tomillo,"Gran VÃ­a, 1",Madrid,,28001,Spain,15.6,2,0
+10283,1996-08-16,1996-08-23,84.81,LILA-Supermercado,Carrera 52 con Ave. BolÃ­var #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela,12.4,20,0
+10283,1996-08-16,1996-08-23,84.81,LILA-Supermercado,Carrera 52 con Ave. BolÃ­var #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela,7.3,18,0
+10283,1996-08-16,1996-08-23,84.81,LILA-Supermercado,Carrera 52 con Ave. BolÃ­var #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela,27.2,35,0
+10283,1996-08-16,1996-08-23,84.81,LILA-Supermercado,Carrera 52 con Ave. BolÃ­var #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela,27.8,3,0
+10284,1996-08-19,1996-08-27,76.56,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany,35.1,15,0
+10284,1996-08-19,1996-08-27,76.56,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany,15.5,21,0
+10284,1996-08-19,1996-08-27,76.56,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany,27.2,20,0
+10284,1996-08-19,1996-08-27,76.56,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany,11.2,5,0
+10285,1996-08-20,1996-08-26,76.83,QUICK-Stop,TaucherstraÃŸe 10,Cunewalde,,01307,Germany,14.4,45,0

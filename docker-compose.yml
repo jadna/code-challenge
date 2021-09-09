@@ -12,3 +12,16 @@ services:
       - ./data/northwind.sql:/docker-entrypoint-initdb.d/northwind.sql
     ports:
       - 5432:5432
+  mysql:
+    image: mysql:5.7
+    restart: always
+    environment:
+      MYSQL_DATABASE: 'db_challenge'
+      MYSQL_USER: 'user'
+      MYSQL_PASSWORD: 'passuser$'
+      MYSQL_ROOT_PASSWORD: 'passuser$'
+    volumes:
+      - ./datadir:/var/lib/mysql
+      - ./data/myDatabase.sql:/docker-entrypoint-initdb.d/myDatabase.sql
+    ports:         
+      - '3306:3306'
