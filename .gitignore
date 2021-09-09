@@ -1,2 +1,5 @@
 ./dbdata
 ./datadir
+./data/csv
+./data/postgres
+./data/query_final.csv
